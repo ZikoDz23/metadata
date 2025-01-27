@@ -2,9 +2,6 @@
     "name": "Globe Terra",
     "symbol": "GTR",
     "description": "This is a cool token on Solana.",
-    "image": "https://raw.githubusercontent.com/ZikoDz23/metadata/refs/heads/main/gtr.png",
-    
-    "seller_fee_basis_points": 500,
-   
+    "image": "https://raw.githubusercontent.com/ZikoDz23/metadata/refs/heads/main/gtr.png"
   }
   

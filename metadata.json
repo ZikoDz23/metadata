@@ -1,0 +1,26 @@
+{
+    "name": "Globe Terra",
+    "symbol": "GTR",
+    "description": "This is a cool token on Solana.",
+    "image": "https://example.com/token-image.png",
+    "attributes": [
+      { "trait_type": "Category", "value": "Utility" },
+      { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "files": [
+        {
+          "uri": "https://example.com/token-image.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4Gv2ME65vrUheupb4Mf7UUzhzscVciRKe2trisVvgTCX",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
